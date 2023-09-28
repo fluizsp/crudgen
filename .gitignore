@@ -1,0 +1,17 @@
+# Arquivos executáveis
+bin/
+out/
+
+# Arquivos de log e relatórios de cobertura
+*.log
+*.cov
+*.coverage
+
+# Variáveis de ambiente
+.env
+
+# Arquivos gerados pelo go test
+test.out
+
+# Arquivos temporários
+*.tmp
